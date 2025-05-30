@@ -1,4 +1,4 @@
-# homebrew-figmagic
+# homebrew-figx
 
-Homebrew cask for the Figmagic tool on macOS.
+Homebrew cask for the FigX tool on macOS.
 
