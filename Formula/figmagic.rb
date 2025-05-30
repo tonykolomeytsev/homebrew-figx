@@ -3,12 +3,12 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Figmagic < Formula
   desc "Cross-platform Figma resources management CLI tool"
-  homepage "https://github.com/tonykolomeytsev/figmagic"
-  url "https://github.com/tonykolomeytsev/figmagic/releases/download/v0.3.10/figmagic-macOS-arm64.tar.gz"
-  sha256 "2a75d732690935ca29a823ffce003035dcd11800cf12ec63cc3428b9587ddb77"
-  version "0.3.10"
+  homepage "https://github.com/tonykolomeytsev/figx"
+  url "https://github.com/tonykolomeytsev/figx/releases/download/v0.3.11/figmagic-macOS-arm64.tar.gz"
+  sha256 "797e5bb7cd578260d511178a97d22cbbe60a90375322089b4de6a36cc77993ba"
+  version "0.3.11"
 
   def install
-    bin.install "figmagic"
+    bin.install "figx"
   end
 end
