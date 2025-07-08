@@ -4,9 +4,9 @@
 class Figx < Formula
   desc "Cross-platform Figma resources management CLI tool"
   homepage "https://github.com/tonykolomeytsev/figx"
-  url "https://github.com/tonykolomeytsev/figx/releases/download/v0.7.3/figx-macos-arm64.tar.gz"
-  sha256 "123bc6562f9204cbaa979330fc840761444c27bcd9d2a9258affffe71f876668"
-  version "0.7.3"
+  url "https://github.com/tonykolomeytsev/figx/releases/download/v0.7.4/figx-macos-arm64.tar.gz"
+  sha256 "56ad500b55b439d3e44bb7da3428eb1960cc787a3ba68b919c96592a4bb8a9c6"
+  version "0.7.4"
 
   def install
     bin.install "figx"
